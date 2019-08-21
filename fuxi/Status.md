@@ -1,9 +1,74 @@
 # Testnet Status
+## Feb. 4 Fuxi testnet comes online
+The goal for Fuxi testnet is to provide a stable and free enviroment for testing applications, services and client tools development.  So valdiators no need to join the Fuxi testnet
+
+## Feb. 11  New Release
+Irishub v0.12.0 is released 
+
+## Jan. 29 Load test
+
+THe network tps was about 200 at peak.
+
+## Jan. 25 Restrt Upgrade was tested 
+A system-halt proposal was passed and the chain stopped. All the states snapshot were exported as genesis file and the chain restart with new version v0.11.0.
+
+## Jan. 24  New Release
+Irishub v0.11.0 is released 
+
+## Jan. 21,Patch Upgrade was tested 
+A consensus failure was triggered in v0.10.2 and the nodes need to switch to v0.10.2-patch to recover from consensus failure
+
+## Jan. 20 2019 Sucessfulw Smooth Software Upgarade 
+**iris** version for tsetnet switch from v0.10.0 to v0.10.2
+
+## Jan. 19 2019 Software Upgarade Proposal is passed
+A smooth software upgrade proposal is submitted by dev team and passed: https://testnet.irisplorer.io/#/ProposalsDetail/1
+
+## Jan 17 2019 - Fuxi-8000 Go Live
+
+We bootstraped the latest testnet with 21 genesis validators. Now, fuxi-8000 has 21 validators and the average block time is about 5s.
+## Jan. 16  New Release
+Irishub v0.10.0 is released 
+
+## Jan. 9 Fuxi-7000 Testnet Halted
+Fuxi-7000 on-chain upgrade process is halted due to Tendermint bug.The team is doing internal QA process and is about to release a new version: v0.10.0. 
+
+## Jan. 5  New Release
+Irishub v0.9.1 is released and this leads to consensus failure, team quickly released a patch: v0.9.1-patch0
+
+## Jan. 4, 2019 Software Upgarade Proposal is passed
+A software upgrade proposal is submitted by dev team and passed.
+
+## Dec. 29, 2018 - Fuxi-7000 Go Live
+
+We bootstraped the latest testnet with 12 genesis validators. Now, fuxi-7000 has 25 validators and the average block time is about 5s.
+
+## Nov. 27, 2018 - New Release
+
+Released v0.9.0
+https://github.com/irisnet/irishub/releases/tag/v0.9.0
+## Dec 17, 2018 - Fuxi-6000 Go Live
+
+We bootstraped the latest testnet with 10 genesis validators. Now, fuxi-6000 has 20 validators and the average block time is about 5s.
+
+## Dec. 7 2018 - New Release
+
+Released v0.8.0
+
+https://github.com/irisnet/irishub/releases/tag/v0.8.0
+
+## Nov 30, 2018 - Fuxi-5000 Go Live
+
+We bootstraped the latest testnet in a centralized manner. Now, fuxi-5000 has 25 validators and the average block time is about 6s.
+## Nov 27, 2018 - New Release
+
+Released v0.7.0
+https://github.com/irisnet/irishub/releases/tag/v0.7.0
 
 
 ## Nov 12, 2018 - Fuxi-4000 Go Live
 
-We bootstraped the latest testnet in. centralized manner. Now, fuxi-4000 has 28 validators and the average block time is about 5s.
+We bootstraped the latest testnet in a centralized manner. Now, fuxi-4000 has 28 validators and the average block time is about 5s.
 
 ## Nov 1, 2018 - New Release
 

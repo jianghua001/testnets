@@ -11,6 +11,56 @@ To get started with the latest testnet, please follow this [guide](https://githu
 
 ## Testnet Status
 
+## Fuxi  Testnet go to next phase
+The Fuxi testnet is used to provide a stable test environment for developers such as third-party wallets, browsers and other applications. Learn how to join [here](https://github.com/irisnet/irishub/blob/master/docs/get-started/Join-the-Testnet.md)
+
+## Feb. 16  New version
+IRIS hub v0.12.0 is released 
+
+## Jan 17, 2019 - Fuxi-8000 Go Live
+
+We bootstraped the latest testnet with 21 genesis validators. Now, fuxi-8000 has 21 validators and the average block time is about 5s.
+## Jan. 16  New version
+Irishub v0.10.0 is released 
+
+## Jan. 9, Fuxi-7000 Testnet Halted
+Fuxi-7000 on-chain upgrade process is halted due to Tendermint bug.The team is doing internal QA process and is about to release a new version: v0.10.0. 
+## Jan. 5  New version
+Irishub v0.9.1 is released and this leads to consensus failure, team quickly released a patch: v0.9.1-patch0
+
+## Jan. 4, 2019 Software Upgarade Proposal is passed
+A software upgrade proposal is submitted by dev team and passed.
+
+## Dec 29, 2018 - Fuxi-7000 Go Live
+
+We bootstraped the latest testnet with 12 genesis validators. Now, fuxi-7000 has 25 validators and the average block time is about 5s.
+
+## Dec. 27, 2018 - New Release
+
+Released v0.9.0
+
+https://github.com/irisnet/irishub/releases/tag/v0.9.0
+
+## Dec 17, 2018 - Fuxi-6000 Go Live
+
+We bootstraped the latest testnet with 10 genesis validators. Now, fuxi-6000 has 20 validators and the average block time is about 5s.
+
+## Dec 7, 2018 - New Release
+
+Released v0.8.0
+
+https://github.com/irisnet/irishub/releases/tag/v0.8.0
+
+## Nov 30, 2018 - Fuxi-5000 Go Live
+
+We bootstraped the latest testnet in a centralized manner. Now, fuxi-5000 has 25 validators and the average block time is about 6s.
+
+## Nov 27, 2018 - New Release
+
+Released v0.7.0
+
+https://github.com/irisnet/irishub/releases/tag/v0.7.0
+
 ## Nov 12, 2018 - Fuxi-4000 Go Live
 
 We bootstraped the latest testnet in a centralized manner. Now, fuxi-4000 has 28 validators and the average block time is about 5s.
